@@ -1,2 +1,2 @@
-# capstone-project-1
+# Capstone Project One
 Online Resume
